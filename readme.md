@@ -67,7 +67,7 @@ Based on these graphs, as a very general rule of thumb it seems a project should
 - 100 USD + in crowdfunded contributions to recieve matching funds
 - Note: this is a rule of thumb based on the dataset, and not a hard-coded requirement 
 
-This opens the door to matching funds but this is only sufficient to get ones foot in the door. For example, in Gitcoin Grants Round 12 my grant submission (braid.science)[https://gitcoin.co/grants/4097/braidscience] recieved $166.39 by crowdfunding from 8 contributors and an addittional $0.20 in matching funds.
+This opens the door to matching funds but this is only sufficient to get ones foot in the door. For example, in Gitcoin Grants Round 12 my grant submission [braid.science](https://gitcoin.co/grants/4097/braidscience) recieved $166.39 by crowdfunding from 8 contributors and an addittional $0.20 in matching funds.
 On the other hand, in the same round, Coin Center raised $103,838.93 from 5727 contributors and recieved $340,000.00 in matching funds.
 Also in the same round, the Electronic Frontier Foundation raised $58,715.04 from 3331 and recieved $228,273.84 in matching funds. 
 
